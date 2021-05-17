@@ -10,4 +10,3 @@ www.pixiv.net##.t_comment_section.ad-frame-container
 www.pixiv.net##.t_relatedworks.ad-frame-container
 www.pixiv.net##.t_comment_tag.ad-frame-container
 www.pixiv.net##.yuf-overlay-fixed
-
