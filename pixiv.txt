@@ -5,4 +5,9 @@ www.pixiv.net##.t_pager_super.ad-frame-container
 www.pixiv.net##.t_footer.ad-frame-container
 www.pixiv.net##.premium-lead-t-footer
 www.pixiv.net###user-recommender
+www.pixiv.net##.t_header.ad-frame-container
+www.pixiv.net##.t_comment_section.ad-frame-container
+www.pixiv.net##.t_relatedworks.ad-frame-container
+www.pixiv.net##.t_comment_tag.ad-frame-container
+www.pixiv.net##.yuf-overlay-fixed
 
