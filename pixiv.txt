@@ -1,0 +1,8 @@
+! 2021-05-17 https://www.pixiv.net
+www.pixiv.net##.t_overray2.geta.overlay.ad-frame-container
+www.pixiv.net##.premium-lead-new-t-info-home-top
+www.pixiv.net##.t_pager_super.ad-frame-container
+www.pixiv.net##.t_footer.ad-frame-container
+www.pixiv.net##.premium-lead-t-footer
+www.pixiv.net###user-recommender
+
